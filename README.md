@@ -8,4 +8,6 @@
 
 - **Part 2**: Refactoring with MVVM and RxSwift. [Github](https://github.com/alexbaramilis/Building-Breather-Part-2), [Medium](https://medium.com/@alexandrosbaramilis/building-breather-part-2-refactoring-with-mvvm-and-rxswift-bc6e405443fa)
 
-- **Part 2 - Bonus**: Coming soon...
+- **Part 2 - Bonus**: Refreshing the UI with loading state and mocking API requests with delay. [Github](https://github.com/alexbaramilis/Building-Breather-Part-2), [Medium](https://medium.com/@alexandrosbaramilis/building-breather-part-2-bonus-refreshing-the-ui-with-loading-state-and-mocking-api-requests-4ec82fc06a94)
+
+- **Part 3**: Coming soon...
