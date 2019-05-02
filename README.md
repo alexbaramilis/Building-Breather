@@ -10,4 +10,6 @@
 
 - **Part 2 - Bonus**: Refreshing the UI with loading state and mocking API requests with delay. [Github](https://github.com/alexbaramilis/Building-Breather-Part-2), [Medium](https://medium.com/@alexandrosbaramilis/building-breather-part-2-bonus-refreshing-the-ui-with-loading-state-and-mocking-api-requests-4ec82fc06a94)
 
-- **Part 3**: Coming soon...
+- **Part 3**: Managing networking with RxMoya and handling errors with RxSwift’s retry and materialize. [Github](https://github.com/alexbaramilis/Building-Breather-Part-3), [Medium](https://medium.com/@alexandrosbaramilis/building-breather-part-3-managing-networking-with-rxmoya-and-handling-errors-with-rxswifts-c300648858b8)
+
+- **Part 4**: Coming soon...
