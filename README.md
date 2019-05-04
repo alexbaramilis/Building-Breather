@@ -12,4 +12,6 @@
 
 - **Part 3**: Managing networking with RxMoya and handling errors with RxSwift’s retry and materialize. [Github](https://github.com/alexbaramilis/Building-Breather-Part-3), [Medium](https://medium.com/@alexandrosbaramilis/building-breather-part-3-managing-networking-with-rxmoya-and-handling-errors-with-rxswifts-c300648858b8)
 
+- **Part 3 - Bonus**: Combining network requests with RxSwift’s zip and switching tuples with Swift’s switch. [Github](https://github.com/alexbaramilis/Building-Breather-Part-3), [Medium](https://medium.com/@alexandrosbaramilis/building-breather-part-3-bonus-combining-network-requests-with-rxswifts-zip-and-switching-71d207a2ea49)
+
 - **Part 4**: Coming soon...
