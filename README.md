@@ -14,4 +14,6 @@
 
 - **Part 3 - Bonus**: Combining network requests with RxSwift’s zip and switching tuples with Swift’s switch. [Github](https://github.com/alexbaramilis/Building-Breather-Part-3), [Medium](https://medium.com/@alexandrosbaramilis/building-breather-part-3-bonus-combining-network-requests-with-rxswifts-zip-and-switching-71d207a2ea49)
 
-- **Part 4**: Coming soon...
+- **Part 4**: Nested JSON Parsing with Decodable, CodingKeys and RxMoya’s filter and map. [Github](https://github.com/alexbaramilis/Building-Breather-Part-4), [Medium](https://medium.com/@alexandrosbaramilis/building-breather-part-4-nested-json-parsing-with-decodable-codingkeys-and-rxmoyas-filter-and-515eef3265a5)
+
+- **Part 4 - Bonus**: Coming soon...
